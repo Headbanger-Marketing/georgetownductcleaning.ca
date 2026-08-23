@@ -1,2 +1,25 @@
 # Georgetown Duct Cleaning
-HVAC services in Ontario.
+
+> Georgetown Duct Cleaning is a local HVAC company serving Georgetown, Halton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 877-5208  |  Email: contact@georgetownductcleaning.ca  |  Website: https://georgetownductcleaning.ca
+
+## Key pages
+
+- [Home](https://georgetownductcleaning.ca/): Georgetown Duct Cleaning homepage with service overview and FAQ
+- [About](https://georgetownductcleaning.ca/about/): About the company and service area
+- [Contact](https://georgetownductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://georgetownductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Georgetown, Ontario
+- [Dryer Vent Cleaning](https://georgetownductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Georgetown, Ontario
+- [Furnace & AC Cleaning](https://georgetownductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Georgetown, Ontario
+- [HRV & Ventilation Cleaning](https://georgetownductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Georgetown, Ontario
+- [Duct Sanitizing & Deodorizing](https://georgetownductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Georgetown, Ontario
+- [Duct Sealing & Repair](https://georgetownductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Georgetown, Ontario
+- [Commercial Duct Cleaning](https://georgetownductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Georgetown, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Georgetown are answered on the homepage.
